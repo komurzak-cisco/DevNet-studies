@@ -1,1 +1,2 @@
 Currently doing training on Git/GitHub. Love it!
+Adding some comments for Lesson2
